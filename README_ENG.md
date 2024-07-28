@@ -32,6 +32,8 @@ Agro Harvest Token (AHT) is a blockchain application designed for the agricultur
 
 - Node.js
 - Solidity
+-Remix
+![image](https://github.com/user-attachments/assets/30b678c5-8dd6-46fe-a8e9-16019f58351d)
 
 ## Deployment Information
 

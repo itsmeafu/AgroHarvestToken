@@ -17,7 +17,7 @@ Agro Harvest Token (AHT), tarım sektörüne yönelik bir blok zinciri uygulamas
    `function initialize(address _propertyManager, address initialOwner, uint256 _totalSupplyCap) public initializer;`
 
 2. **mintTokens**  
-   Yeni belirteçler oluşturmak için kullanılır.  
+   Yeni tokenler oluşturmak için kullanılır.  
    `function mintTokens(address to, uint256 amount) public onlyOwner;`
 
 3. **distributeRent**  

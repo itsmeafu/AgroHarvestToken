@@ -2,12 +2,12 @@
 
 ## Proje Amaçları
 
-Agro Harvest Token (AHT), tarım sektörüne yönelik bir blok zinciri uygulamasıdır. Bu proje, çiftçilere ve yatırımcılara gelir dağıtım sistemi sunarak tarımsal ürünlerin hareketini takip etmeyi, şeffaflığı artırmayı, aracı kurumlara gerek kalmadan sermaye arttırmayı ve kar dağıtımını hedefler.
+Agro Harvest Token (AHT), tarım sektörüne yönelik bir blok zinciri uygulamasıdır. Bu proje, çiftçilere ve yatırımcılara gelir dağıtım sistemi sunarak tarımsal dönemlerin hareketini ve faydasını takip etmeyi, şeffaflığı artırmayı, aracı kurumlara gerek kalmadan sermaye arttırmayı ve kar dağıtımını hedefler. Real estate sisteminin tarımsal karşılığı olarak nitelendirebiliriz.
 
 ## Ana Özellikler
 
 - **Token Oluşturma:** Tarım yapılacak arazi ve tarlalar için arzı sınırlı Unique tokenler oluşturulabilir.
-- **Gelir Dağıtımı:** Token sahiplerine sahip oldukları token yüzdesi kadar dönemsel/yıllık ROI gelir payı dağıtımı yapılabilir.
+- **Gelir Dağıtımı:** Token sahiplerine sahip oldukları token yüzdesi kadar dönemsel/yıllık ROI gelir payı dağıtımı yapılabilir(Borsa sistemlerinde temettü dağıtımı gibi lot(token) sabit kalarak.
 - **Şeffaflık ve İzlenebilirlik:** Tarımsal faaliyetlerin ve hesapların hareketi blok zincir üzerinde takip edilebilir.
 
 ## Akıllı Sözleşme Fonksiyonları
@@ -31,7 +31,8 @@ Agro Harvest Token (AHT), tarım sektörüne yönelik bir blok zinciri uygulamas
 ## Gereksinimler
 
 - Node.js
-- Solidity
+  -Solidity
+- Remix
 
 ## Dağıtım Bilgileri
 
